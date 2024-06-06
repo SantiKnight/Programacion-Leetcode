@@ -10,15 +10,6 @@ El propósito de este repositorio es:
 - Resolver problemas de programación de diferentes niveles de dificultad.
 - Documentar el proceso de aprendizaje y las soluciones implementadas.
 
-## Estructura del Repositorio
-
-El repositorio está organizado de la siguiente manera:
-- Cada problema de LeetCode tiene su propio directorio.
-- Cada directorio contiene:
-  - Un archivo Python (`solution.py`) con la solución al problema.
-  - Un archivo de texto (`description.txt`) con la descripción del problema (opcional).
-  - Un archivo `README.md` con una breve explicación de la solución (opcional).
-
 ## Recursos
 
 - [LeetCode](https://leetcode.com/) - Plataforma para practicar problemas de programación.
