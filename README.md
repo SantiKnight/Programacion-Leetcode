@@ -10,6 +10,53 @@ El propósito de este repositorio es:
 - Resolver problemas de programación de diferentes niveles de dificultad.
 - Documentar el proceso de aprendizaje y las soluciones implementadas.
 
+## Estructura del Repositorio
+
+Cada problema de LeetCode tiene su propio directorio, que contiene:
+- Un archivo Python (`Leetcode[Numero].py`) con la solución al problema.
+- Un archivo de texto (`Problem_[Problem_Name].txt`) con la descripción del problema.
+
+### Ejemplo de Estructura de Carpeta
+
+leetcode/
+├── two_sum/
+│ ├── solution.py
+│ └── Problem_[Problem_Name].txt
+├── add_two_numbers/
+│ ├── solution.py
+│ └── Problem_[Problem_Name].txt
+├── longest_substring_without_repeating_characters/
+│ ├── solution.py
+│ └── Problem_[Problem_Name].txt
+└── ...
+
+less
+Copiar código
+
+## Lista de Problemas Resueltos
+
+1. [Two Sum](leetcode.com/problems/two-sum)
+2. [Roman To Integer](leetcode.com/problems/roman-to-integer)
+3. [Palindrome Number](leetcode.com/problems/palindrome-number)
+4. [Longest Common Prefix](leetcode.com/problems/longest-common-prefix)
+5. [To be Continued...]
+6. [Equal Substring](leetcode.com/problems/get-equal-substrings-within-budget)
+7. [Number of Steps to Reduce a Number in Binary Representation to One](leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)
+8. [Is Valid Sudoku](leetcode.com/problems/valid-sudoku)
+9. [Single Number](leetcode.com/problems/single-number-iii)
+10. [Find Peak Element](leetcode.com/problems/find-peak-element)
+11. [Find Max Consecutive Ones](leetcode.com/problems/max-consecutive-ones)
+12. [Maximum Robots](leetcode.com/problems/maximum-number-of-robots-within-budget)
+13. [Reverse String](leetcode.com/problems/reverse-string)
+14. [Append Characters to String to Make Subsequence](leetcode.com/problems/append-characters-to-string-to-make-subsequence)
+15. [First Missing Positive](leetcode.com/problems/first-missing-positive)
+16. [Longest Palindrome](leetcode.com/problems/longest-palindrome)
+17. [Adding Spaces to a String](leetcode.com/problems/adding-spaces-to-a-string)
+18. [Find Common Characters](leetcode.com/problems/find-common-characters)
+19. [Hand of Straights](leetcode.com/problems/hand-of-straights)
+20. [Count the Number of Vowel Strings in Range](leetcode.com/problems/count-the-number-of-vowel-strings-in-range)
+21. [Replace Words](leetcode.com/problems/replace-words)
+
 ## Recursos
 
 - [LeetCode](https://leetcode.com/) - Plataforma para practicar problemas de programación.
@@ -17,7 +64,7 @@ El propósito de este repositorio es:
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [santiknight2003@gmail.com](mailto:tu_santiknight2003@gmail.com).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [santiknight2003@gmail.com](mailto:santiknight2003@gmail.com).
 
 ---
 
