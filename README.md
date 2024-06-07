@@ -22,16 +22,15 @@ leetcode/
 ├── two_sum/
 │ ├── solution.py
 │ └── Problem_[Problem_Name].txt
+
 ├── add_two_numbers/
 │ ├── solution.py
 │ └── Problem_[Problem_Name].txt
+
 ├── longest_substring_without_repeating_characters/
 │ ├── solution.py
 │ └── Problem_[Problem_Name].txt
 └── ...
-
-less
-Copiar código
 
 ## Lista de Problemas Resueltos
 
