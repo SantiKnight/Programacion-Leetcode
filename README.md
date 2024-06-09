@@ -57,6 +57,7 @@ leetcode/
 21. [Replace Words](https://leetcode.com/problems/replace-words)
 22. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 23. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)
+24. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k)
 
 ## Recursos
 
