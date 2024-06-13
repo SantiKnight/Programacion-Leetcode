@@ -61,6 +61,7 @@ leetcode/
 25. [Height Checker](https://leetcode.com/problems/height-checker)
 26. [Relative Sort Array](https://leetcode.com/problems/relative-sort-array)
 27. [Sort Colors](https://leetcode.com/problems/sort-colors)
+28. [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)
 
 ## Recursos
 
