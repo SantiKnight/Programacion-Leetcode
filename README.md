@@ -62,6 +62,7 @@ leetcode/
 26. [Relative Sort Array](https://leetcode.com/problems/relative-sort-array)
 27. [Sort Colors](https://leetcode.com/problems/sort-colors)
 28. [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)
+29. [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique)
 
 ## Recursos
 
