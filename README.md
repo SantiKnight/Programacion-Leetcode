@@ -65,6 +65,7 @@ leetcode/
 29. [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique)
 30. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)
 31. [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work)
+32. [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)
 
 ## Recursos
 
