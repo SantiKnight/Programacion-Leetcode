@@ -67,6 +67,7 @@ leetcode/
 31. [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work)
 32. [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)
 33. [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls)
+34. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 
 ## Recursos
 
