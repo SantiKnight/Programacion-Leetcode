@@ -69,6 +69,7 @@ leetcode/
 33. [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls)
 34. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 35. [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
+36. [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)
 
 ## Recursos
 
