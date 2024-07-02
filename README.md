@@ -71,6 +71,7 @@ leetcode/
 35. [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
 36. [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)
 37. [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)
+38. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 
 ## Recursos
 
