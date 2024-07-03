@@ -72,6 +72,7 @@ leetcode/
 36. [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)
 37. [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)
 38. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+39. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 
 ## Recursos
 
