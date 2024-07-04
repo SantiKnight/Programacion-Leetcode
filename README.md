@@ -73,6 +73,7 @@ leetcode/
 37. [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)
 38. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 39. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
+40. [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 
 ## Recursos
 
