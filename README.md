@@ -76,6 +76,7 @@ leetcode/
 40. [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 41. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 42. [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)
+43. [Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 
 ## Recursos
 
