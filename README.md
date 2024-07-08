@@ -77,6 +77,7 @@ leetcode/
 41. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 42. [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)
 43. [Water Bottles](https://leetcode.com/problems/water-bottles/description/)
+44. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 
 ## Recursos
 
