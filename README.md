@@ -80,6 +80,7 @@ leetcode/
 44. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 45. [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/)
 46. [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)
+47. [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
 
 ## Recursos
 
