@@ -81,6 +81,7 @@ leetcode/
 45. [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/)
 46. [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)
 47. [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
+48. [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
 
 ## Recursos
 
