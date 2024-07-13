@@ -82,6 +82,7 @@ leetcode/
 46. [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)
 47. [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
 48. [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
+49. [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)
 
 ## Recursos
 
